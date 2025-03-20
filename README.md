@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **MERN Stack, AI, ML, Github**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Oman724](https://github.com/Oman724)
+
 - 📫 How to reach me **neupaneoman90@gmail.com**
 
 - ⚡ Fun fact **I think I like to solve bugs**
